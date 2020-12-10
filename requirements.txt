@@ -5,4 +5,4 @@
 #    pip-compile
 #
 click==7.1.2              # via py-dirk
-py-dirk==0.0.2            # via -r requirements.in
+py-dirk==0.0.5            # via -r requirements.in
